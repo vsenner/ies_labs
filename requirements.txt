@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pydantic
+paho-mqtt==1.6.1
+redis
+requests
